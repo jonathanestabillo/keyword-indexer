@@ -1,0 +1,193 @@
+<h3>1. Commencement of a Delegated Regulation</h3>
+
+<p>On 10 April 2018 the European Commission adopted a
+<em><strong>Regulation</strong></em> (the "Delegated
+Regulation") amending and supplementing <em><strong>the MMF
+Regulation</strong></em>. On 13 July 2018, the Delegated Regulation
+was published in the Official Journal of the EU ("OJ")
+and will enter into force on 2 August 2018. However, the Delegated
+Regulation will apply to new and existing money market funds
+("MMFs") from 21 July 2018 with the exception of Article
+1 (which contains the amendment to the MMFR set out at (a) below)
+which will apply from 1 January 2019.</p>
+
+<p>The Delegated Regulation imposes additional requirements on
+managers of MMFs where they are investing in certain categories of
+assets, as follows:</p>
+
+<ol type="a">
+<li style="LINE-HEIGHT:17px;"><strong>Simple, transparent and
+standardised ("STS") securitisations and asset-backed
+commercial papers ("ABCPs")</strong><br />
+<br />
+Under the MMF Regulation, there is a specific incentive to invest
+in STS securitisations and ABCPs. In this regard, the Delegated
+Regulation simply amends the MMF Regulation to cross-refer to the
+securitisation regime already set down in Regulation (EU) 2017/2402
+(which set out a general framework for securitisation and created a
+specific framework for STS securitisation).</li>
+
+<li style="LINE-HEIGHT:17px;"><strong>Assets received under a
+Reverse Repurchase Agreement</strong><br />
+<br />
+The Delegated Regulation provides clarity on the specific
+quantitative and qualitative requirements relating to assets
+received under reverse repurchase agreements, which include:<br />
+<br />
+<ul>
+<li style="LINE-HEIGHT:17px;">the assets shall be subject to
+haircuts in accordance with the requirements set out under
+Regulation (EU) 575/2013 (on prudential requirements for credit
+institutions and investment firms);</li>
+
+<li style="LINE-HEIGHT:17px;">Managers of MMFs ("MMF
+Managers") are required to apply higher haircuts than the
+minimum thresholds set out in Regulation (EU) 575/2013 where they
+consider it necessary to ensure that the collateral received as
+part of the reverse repurchase agreement is sufficiently liquid.
+The Delegated Regulation prescribes a list of factors that MMF
+Mangers must take account of when applying a higher haircut;</li>
+
+<li style="LINE-HEIGHT:17px;">MMF Managers are required to put in
+place a clear haircut policy adapted to each asset received as
+collateral. The policy should be documented and should substantiate
+each decision to apply a specific haircut to the value of an
+asset;</li>
+
+<li style="LINE-HEIGHT:17px;">MMF Managers should also monitor and
+revise the amount of the haircut or the additional haircut taking
+into account the residual maturity or other factors related to the
+viability of the counterparty; and</li>
+
+<li style="LINE-HEIGHT:17px;">The Delegated Regulation also
+provides an exempted list of counterparties of which the above
+requirements do not apply.</li>
+</ul>
+</li>
+
+<li style="LINE-HEIGHT:17px;"><strong>Credit Quality Assessment
+Methodologies</strong><br />
+<br />
+In relation to credit quality assessments carried out by MMF
+Managers, the Delegated Regulation requires the methodologies to
+include:<br />
+<br />
+ 
+
+<ol type="i">
+<li style="LINE-HEIGHT:17px;">criteria for validating the internal
+credit quality assessment methodologies;</li>
+
+<li style="LINE-HEIGHT:17px;">criteria for quantifying credit risk,
+and the relative risk of default of the issuer and of the
+instrument;</li>
+
+<li style="LINE-HEIGHT:17px;">criteria for establishing qualitative
+indicators in relation to the issuer of the instrument; and</li>
+
+<li style="LINE-HEIGHT:17px;">criteria for establishing qualitative
+credit risk indicators in relation to the issuer of the
+instrument.</li>
+</ol>
+
+<br />
+In addition, the Delegated Regulation provides that:<br />
+<br />
+<ul>
+<li style="LINE-HEIGHT:17px;">MMF Managers may take investment
+decisions that override the result of a credit quality assessment
+only in exceptional circumstances (such as stressed market
+conditions), where there is an objective reason for doing so and
+provided such decisions are properly documented;</li>
+
+<li style="LINE-HEIGHT:17px;">the credit quality assessment should
+not be a once-off assessment, rather it should be carried out
+continually and should be revised, in particular, when there is a
+material change that could have an impact on the existing credit
+quality assessment of the instrument (the Delegated Regulation also
+defines the circumstances that give rise to a material change);
+and</li>
+
+<li style="LINE-HEIGHT:17px;">MMF Managers should take into account
+a downgrading by a credit rating agency and should also carry out
+their own assessment according to their internal credit quality
+assessment methodology. MMF Managers are also required to establish
+an internal procedure for selection of credit rating agencies
+suited to the investment portfolio of the MMF.</li>
+</ul>
+</li>
+</ol>
+
+<h3>2. New Central Bank of Ireland Application forms for MMFs</h3>
+
+<p>The Central Bank of Ireland (the "Central Bank") has
+published its <em><strong>MMFR Application Forms</strong></em>. The
+relevant application forms are applicable from 21 July 2018 and
+will apply to all new funds seeking to be authorised as a MMF and
+those existing funds transitioning under the MMF Regulation.</p>
+
+<h3>Timing</h3>
+
+<p>For all existing MMFs the transitioning deadline for compliance
+with the MMF Regulation is 21 January 2019. However, the Central
+Bank have announced that any transitioning MMFs that require prior
+document review (i.e. UCITS and RAIFs) should file their updated
+documents by 1 September 2018 to ensure that they are approved by
+21 January 2019.</p>
+
+<h3>3. European Securities and Markets Authority (ESMA) letter to
+the European Commission in relation to share cancellation</h3>
+
+<p>On 20 July 2018, ESMA published a
+<em><strong>letter</strong></em> it had written to the European
+Commission in relation to reverse distribution mechanism (RDM) or
+share cancellation under the MMF Regulation.</p>
+
+<p>The Letter responds to a January 2018 letter from the European
+Commission in which it agreed with ESMA's analysis that the
+practice of share cancellation is not compatible with the MMF
+Regulation.</p>
+
+<p>In its letter, ESMA calls on the Commission to make public the
+text of an opinion of the Legal Service of the Commission on the
+compatibility of share cancellation with the MMF Regulation given
+that it appears the opinion has been shared with some market
+participants, but not all. ESMA is of the view that the Commission
+needs to make its interpretation clear to ensure a proper and
+consistent interpretation and implementation of the MMF
+Regulation.</p>
+
+<h3>4. Central Bank Review of Dealing Practices</h3>
+
+<p>For the last number of months the Central Bank has been liaising
+with MMF managers and administrators, to gather information in
+relation to the dealing practices used for Irish MMFs, in
+particular focusing on the use of what is termed 'historic
+pricing' in such MMFs. It is expected that the Central Bank
+will clarify its position on the use of such dealing practices
+shortly given any transitioning MMFs that require prior document
+review by the Central Bank will need to file updated documents by 1
+September 2018.</p>
+
+<h3>5. Comment</h3>
+
+<p>The publication and entry into force of the Delegated Regulation
+is to be welcomed as it will provide clarity to MMF Managers in
+relation to the quantitative and qualitative requirements that
+apply to assets received under reverse repurchase agreements. In
+addition, the obligations prescribed in relation to credit quality
+assessment criteria will assist MMF Managers in drafting fund
+policies as well as the disclosures in the MMF's offering and
+constitutive documents.</p>
+
+<p>The publication of the Central Bank application forms is also
+helpful as it provides a suitable checklist for new and existing
+funds under the MMF Regulation.</p>
+
+<p>The ESMA letter is an important development as it should
+encourage the Commission to provide its analysis and reasoning
+behind its stance on RDM and its compatibility with the MMF
+Regulation. Developments on this issue will continue to be closely
+monitored by the industry as it is an extremely sensitive matter
+for many MMF Managers particularly those managing constant NAV Euro
+denominated MMFs.</p>

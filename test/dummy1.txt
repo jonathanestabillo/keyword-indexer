@@ -1,0 +1,265 @@
+﻿<h3>Introduction</h3>
+
+<p>Following a relatively settled period, the Irish anti-money
+laundering and counter terrorist-financing ("AML/CFT")
+regime will shortly undergo significant reform in the shape of new
+domestic legislation with a heavy emphasis on risk, revised
+industry guidance and the establishment of central beneficial
+ownership registers.</p>
+
+<p>A significant aspect of these reforms is that certain industry
+sectors will find themselves within the scope of AML/CFT
+legislation for the first time and will be subject to direct
+supervision for AML/CFT purposes by competent authorities. Affected
+firms should start preparing for these changes now to ensure they
+do not find themselves hurriedly introducing new systems, policies
+and procedures without properly thinking through their overall
+approach.</p>
+
+<h3>Implementation of Energy the Fourth Anti-Money Laundering Directive
+("4MLD")</h3>
+
+<p>4MLD was due to be transposed across Europe by June 2017. While
+Ireland implemented certain elements of 4MLD in November 2016 by
+introducing an obligation on incorporated entities to maintain
+details of beneficial ownership, the bulk of 4MLD has still not
+been implemented, and Ireland (along with Greece and Romania) has
+been referred to the European Court of Justice as a result of its
+inaction.</p>
+
+<p>The Criminal Justice (Money Laundering and Terrorist Financing)
+(Amendment) Bill 2018 (the "AML Bill") which will amend
+existing AML/CFT legislation and ultimately give effect to 4MLD was
+introduced to the Dail in April 2018. The AML Bill passed all
+stages in the Dáil prior to its summer recess and it is
+expected that it will be enacted in October / November 2018.</p>
+
+<h3>Key Features of the Bill</h3>
+
+<h3>Certain "unregulated" financial institutions will be
+required to register with Central Bank of Ireland</h3>
+
+<p>Under existing AML/CFT legislation, certain financial
+institutions are deemed to be designated as within scope of the
+legislation (i.e. a "designated person") by virtue of the
+activities they engage in and regardless of their authorisation
+status. Such entities have been colloquially known as "Annex
+1" or "Schedule 2" financial institutions, and
+examples include SPV's involved in lending or financial
+leasing. In the UK, equivalent entities have for a number of years
+been subject to a registration and supervision regime administered
+by the Financial Conduct Authority.</p>
+
+<p>To date, Annex 1 / Schedule 2 financial institutions in Ireland
+have not been required to register with the Central Bank of Ireland
+("CBI"), but the Bill imposes a registration requirement
+and provides that the CBI will establish and maintain a register of
+such entities. Failure to register will be a criminal offence. In
+registering, an Annex 1 / Schedule 2 financial institution will be
+required to specify the activities that make it a designated
+person. The Bill envisages that the CBI may provide further detail
+on the registration process in procedures.</p>
+
+<p>Prior to registration, an Annex 1 / Schedule 2 financial
+institution will need to develop and implement policies and
+procedures in order to demonstrate an ability to comply with the
+various AML/CFT obligations imposed on designated persons,
+including risk assessment, upfront and ongoing customer due
+diligence ("CDD"), training and reporting of suspicious
+activity.</p>
+
+<h3>Increased focus on risk assessment</h3>
+
+<p>The Bill requires designated persons to conduct a documented
+risk assessment of their business activities (a "business risk
+assessment") taking into account certain specified risk
+factors, the National Risk Assessment, any guidance on risk issued
+by the relevant competent authority and any guidelines issued by
+the European Supervisory Authorities. The business risk assessment
+must be approved by senior management within the business and kept
+up to date.</p>
+
+<p>The Bill also prescribes certain factors to be taken into
+account by designated persons when assessing the money laundering
+and terrorist financing risks presented by customers and
+transactions in order to determine the extent of CDD to be applied.
+Notable higher risk factors include non-resident customers,
+companies with nominee shareholders, non-face-to-face business
+relationships, new products and new business practices, and the use
+of new technologies for products.</p>
+
+<h3>Changes to CDD requirements</h3>
+
+<p>Designated persons will only be permitted to apply simplified
+CDD in circumstances where the customer or transaction is
+considered to be low risk. Having decided to apply simplified CDD,
+the designated person must keep a record of its determinations in
+relation to risk and the customer and / or transactions will have
+to be monitored to detect unusual or suspicious activity.</p>
+
+<p>Under existing AML/CFT legislation, it is permissible for banks
+to open accounts for customers before verifying their identity
+provided no transactions are carried out on the account
+pre-verification. In a welcome development, this facility will be
+extended to financial institutions.</p>
+
+<p>The obligation to apply enhanced CDD to politically exposed
+persons ("PEPs") will be extended to PEPs resident in
+Ireland.</p>
+
+<h3>Policies and procedures</h3>
+
+<p>The Bill provides a detailed list of policies, procedures and
+controls which must be adopted by a designated person. The Bill
+also contains more prescriptive requirements in relation to
+group-wide policies and procedures than those set out in existing
+AML/CFT legislation.</p>
+
+<h3>Reporting obligations</h3>
+
+<p>The Bill requires designated persons to report any service or
+transaction provided by the designated person that is connected
+with a high-risk third country to the Financial Intelligence Unit
+("FIU") of An Garda Síochána (the Irish
+police force) and the Revenue Commissioners.</p>
+
+<h3>Powers of competent authorities</h3>
+
+<p>The Bill provides additional powers to competent authorities,
+including powers to issue directions to a designated person or a
+class of designated persons to:</p>
+
+<ul>
+<li style="LINE-HEIGHT:17px;">document its / their risk assessments
+of customers and / or transactions;</li>
+
+<li style="LINE-HEIGHT:17px;">appoint a member of senior management
+with primary responsibility for the implementation and management
+of AML measures;</li>
+
+<li style="LINE-HEIGHT:17px;">appoint an individual at management
+level to act as a compliance manager; and</li>
+
+<li style="LINE-HEIGHT:17px;">undertake an independent, external
+audit to test the effectiveness of its / their internal policies,
+controls and procedures.</li>
+</ul>
+
+<h3>Beneficial Ownership Registers</h3>
+
+<p>One of the key elements of 4MLD is that Member States are
+required to establish and maintain a central register of beneficial
+ownership information of corporate and other legal entities. The
+first step in this process was addressed with the introduction of
+the European Union (Anti-Money Laundering: Beneficial Ownership of
+Corporate Entities) Regulations in November 2016 (S.I. 560/2016)
+requiring incorporated entities to maintain an internal register of
+beneficial owners. Further statutory instruments are expected
+imminently to:</p>
+
+<ul>
+<li style="LINE-HEIGHT:17px;">impose equivalent obligations on
+trusts and Irish Collective Asset-Management Vehicles
+("ICAV's") to maintain an internal register of
+beneficial owners;</li>
+
+<li style="LINE-HEIGHT:17px;">assign legal responsibility to the
+relevant agencies for the establishment and maintenance of the
+central registers of beneficial ownership; and</li>
+
+<li style="LINE-HEIGHT:17px;">impose a reporting obligation on
+incorporated entities, trusts and ICAV's to file returns to the
+central registers. It is expected that there will be a reasonable
+window of opportunity for obliged entities to commence
+reporting.</li>
+</ul>
+
+<h3>5MLD</h3>
+
+<p>In response to terrorist attacks in Europe and the leak of the
+Panama Papers, the European Commission published a proposal in July
+2016 to amend 4MLD to include additional measures to tackle money
+laundering and terrorist financing. The proposed measures included
+the application of enhanced checks towards high risk third
+countries, bringing virtual currency exchange platforms within
+scope of the AML/CFT regime, lowering due diligence thresholds for
+prepaid instruments, enhancing the powers of FIUs and giving FIUs
+swift access to information on the holders of bank and payment
+accounts, through centralised registers or electronic data
+retrieval systems.</p>
+
+<p>On 19 June 2018, the final text of 5MLD was published in the
+Official Journal of the European Union and Member States will
+therefore have until 10 January 2020 to fully implement the
+directive.</p>
+
+<p>From a corporate transparency perspective, the key feature of
+5MLD is that it requires Member States to make central registers of
+beneficial ownership accessible to the general public with the
+exception of the register in respect of trusts, which will still
+require demonstration of a legitimate interest.</p>
+
+<h3>CBI Consultation on Guidance</h3>
+
+<p>The industry guidelines (the "Guidelines") which were
+published by the Department of Finance in February 2012 and which
+the CBI has had regard to when assessing designated persons'
+compliance with AML/CFT obligations are due to be revised later
+this year. The CBI has informally indicated that it intends to
+update the Guidelines in line with the AML Bill once enacted, and
+it is likely that the CBI will also seek to incorporate elements of
+the guidance provided in its ongoing series of AML/CFT bulletins.
+The CBI may also incorporate references to the Risk Factor
+Guidelines published by the European Supervisory Authorities which
+came into effect on 26 June 2018.</p>
+
+<h3>Gambling Sector</h3>
+
+<p>4MLD brought all providers of gambling services within its remit
+whereas under the previous directive, only casinos were covered.
+However, 4MLD contained a provision allowing Member States to
+exempt all or parts of their gambling industry from the scope of
+the implementing legislation if they could be proven to be low
+risk.</p>
+
+<p>In March 2018, the Department of Finance published a risk
+assessment of the Irish gambling sector which concluded that the
+overall risk in the betting and online gambling sectors is
+medium-low whereas the risk in respect of lotteries, bingo, poker
+and gaming, and amusement arcades is considered to be low. The
+report concluded that providers of gambling services in the
+bookmaking and online sub-sectors should be classified as
+designated persons for AML/CFT purposes. The likelihood is that
+this will be achieved via a separate statutory instrument as
+opposed to specific provisions being contained in the AML Bill.</p>
+
+<h3>FATF Assessment of Ireland's AML/CFT System</h3>
+
+<p>The Financial Action Task Force ("FATF") published its
+report on Ireland's AML/CFT system in September 2017. The
+report was generally positively received as FATF concluded that
+Ireland has a sound and substantially effective regime to tackle
+money laundering and terrorist financing. However, FATF did point
+to a number of areas where improvements could be made and set out
+over 70 recommendations in this regard. Ireland is due to report
+back to FATF this month outlining how it intends to address each of
+the issues raised by FATF and, if accepted by FATF, this will
+likely serve as the blueprint for the development of Ireland's
+AML/CFT regime in the coming years.</p>
+
+<h3>New Anti-Corruption Legislation</h3>
+
+<p>The Criminal Justice (Corruption Offences) Act 2018 (the
+"Anti-Corruption Act") came into effect on 30 July 2018.
+The Anti-Corruption Act modernises and consolidates the law on
+corruption and bribery in Ireland, and is one of the key measures
+in the Government's strategy to tackle white collar crime.</p>
+
+<p>The Anti-Corruption Act is broad in nature in that it
+criminalises direct and indirect corruption in the public sector
+and the private sector. Given its breadth, companies will need to
+assess their exposure to the risk of corruption and determine how
+best to address this risk. As a starting point, companies should
+implement and / or update their anti-bribery policies and ensure
+that compliance with the policies is monitored in practice, with
+training to be provided to relevant people in the business.</p>

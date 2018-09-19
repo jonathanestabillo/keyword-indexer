@@ -1,0 +1,104 @@
+<h3>Introduction</h3>
+
+<p>The Court of Appeal recently handed down its judgment in Sheikh
+Mohamed Bin Issa Al Jaber and MBI & Partners UK Limited v
+Sheikh Walid Ibrahim Al Ibrahim and Sheikh Majid Bin Ibrahim Al
+Ibrahim<sup>1</sup>, finding that the submission that an oral loan
+agreement should have an implied term for interest because the
+lender expected "some benefit" from the loan, was
+unarguable and should be rejected.</p>
+
+<h3>Background</h3>
+
+<p>In December 2001, the Second Defendant spoke to the First
+Claimant (Mr Al Jaber) by telephone and asked for a personal loan
+of US$30 million. The purpose of the loan was to help progress a
+business plan to create an Arabic language 24-hour satellite news
+broadcasting service called Al-Arabiya. Mr Al Jaber orally agreed
+to lend the Defendants the full amount, and subsequently had the
+funds transferred. Nothing was said about whether the loan
+agreement would bear interest. On 21 September 2015, a claim form
+and particulars of claim were issued claiming repayment of the
+principal sum, together with interest "at a reasonable
+business rate".</p>
+
+<h3>First instance</h3>
+
+<p>Burton J considered that the Claimants were making two separate
+claims; the first for US$30 million in debt and the second for
+damages for breach of an implied term as to interest. Burton J
+found that there was a good arguable case that there was a loan,
+but not one that provided for interest. As such, while service out
+of the jurisdiction against the Second Defendant was allowed (the
+material application before the Judge was the Claimants'
+application for permission to serve the Second Defendant out of the
+jurisdiction), the Court would not permit service out of the
+jurisdiction in respect of the claim for interest.</p>
+
+<h3>Court of Appeal</h3>
+
+<p>The Court of Appeal first considered Burton J's decision
+that there were two divisible claims. In Elder v
+Northcott<sup>2</sup>, the circumstances were that the principal
+sum was time-barred and the claimant advanced a claim for interest
+on the principal. Clauson J held that it would be
+"paradoxical" for interest accruing before the time at
+which the principal became barred to be recoverable when the
+principal was not. Following that decision, the Court of Appeal
+found that the claim for interest was "accessory" to the
+claim for principal and those claims could not be separated or
+"bifurcated".</p>
+
+<p>The Court of Appeal then considered whether it was possible to
+imply in a loan agreement a term for the payment of interest.
+Citing Lord Neuberger's judgment in Marks & Spencer plc v
+BNP Paribas Securities Services Co (Jersey) Ltd<sup>3</sup>, Simon
+LJ stated that the question was whether there was a serious
+question to be tried that the obligation to pay interest was either
+"necessary to give business efficacy to the loan agreement or
+such that the obligation would have been obvious to the parties,
+although unstated, at the time the agreement was made".
+Following an assessment of the factual background, the Court of
+Appeal found that the loan could have operated in several ways to
+the parties' mutual benefit without provision for interest, and
+as such an implied term for interest was neither necessary to give
+business effect to the agreement, nor so obvious that it "went
+without saying".</p>
+
+<p>Taking into consideration the overriding objective (namely that
+cases are dealt with justly and at proportionate cost), the Court
+of Appeal took the unusual step of determining the issue relating
+to the obligation to pay interest. In doing so, it recognized that
+the usual practice would have been for the second defendant to
+apply for strike out and/or summary judgment, after the
+jurisdictional issue had been resolved and an acknowledgment of
+service had been filed. In finding for the Second Defendant, the
+Court of Appeal considered that there was "no serious issue to
+be tried as to the Claimants' claim for interest on the loan,
+prior to demand, based on the existence of an implied
+term".</p>
+
+<h3>Further thoughts</h3>
+
+<p>While it is always advisable that contracts are in writing, or
+at the very least evidenced in writing, there will nevertheless
+continue to be disputes over the implication of terms. This case
+helpfully summarises the position per Lord Neuberger in Marks &
+Spencer v BNP Paribas<sup>4</sup> that "the term that is to be
+implied must either be necessary in order to give business effect
+to the contract or it must be obvious in the sense that 'it
+goes without saying'". Further, a claim for interest will
+not be entertained where to claim for the principal is time-barred;
+the common law is clear that a claim for interest is
+"accessory" to a claim for principal and they will not be
+treated as separate causes of action.</p>
+
+<p><strong>Footnotes</strong></p>
+
+<p><small>1 [2018] EWCA Civ 1690</small></p>
+
+<p><small>2 [1930] 2 Ch 422</small></p>
+
+<p><small>3 [2016] AC 742</small></p>
+
+<p><small>4 [2016] AC 742</small></p>

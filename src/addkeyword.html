@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>KEYWORDS PLANNER - Add New</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="lib/bootstrap.min.css">
+    <script src="lib/jquery-3.3.1.slim.min.js"></script>
+    <script src="lib/popper.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+
+    <style>
+        /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+        .row.content 
+        {
+            height: 550px
+        }
+
+        /* Set gray background color and 100% height */
+        .sidenav 
+        {
+            background-color: #f1f1f1;
+            height: 100%;
+        }
+            
+            /* On small screens, set height to 'auto' for the grid */
+        @media screen and (max-width: 767px) 
+        {
+                .row.content {height: auto;} 
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="container-fluid">
+        <div class="btn-toolbar justify-content-between">
+            <h2><span class="badge badge-info ml-2 ">KEYWORD INDEX LIST</span> </h2>
+            <a href="keywordlist.html" class="btn btn-primary float-right mb-2 mt-1">BACK TO KEYWORD LIST</a>
+        </div>
+        
+    </nav>
+
+    <br> <br>
+
+    <div class="container-fluid">
+
+        <div class="container well mb-1">
+        
+            <table class="table table-hover">
+                <tbody>
+                    <tr>
+                        <th scope="row">Criminal Law</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Corporate/Commercial Law</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Energy and Natural Resources</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Employment and HR</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Family and Matrimonial</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Environment</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Food, Drugs, Healthcare, Life Science</th>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="New Index Title" aria-label="New Index Title" aria-describedby="button-addon2">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-info" type="button" id="button-addon2">Add New Index</button>
+                </div>
+            </div>   
+        
+        </div>
+
+    </div>
+
+
+
+</body>
+
+</html>

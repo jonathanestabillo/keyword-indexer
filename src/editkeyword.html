@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>KEYWORDS PLANNER - Modify</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="lib/bootstrap.min.css">
+    <link rel="stylesheet" href="css/editkeyword.css">
+    <script src="lib/jquery-3.3.1.slim.min.js"></script>
+    <script src="lib/popper.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+
+    <style>
+        /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+        .row.content 
+        {
+            height: 550px
+        }
+
+        /* Set gray background color and 100% height */
+        .sidenav 
+        {
+            background-color: #f1f1f1;
+            height: 100%;
+        }
+            
+            /* On small screens, set height to 'auto' for the grid */
+        @media screen and (max-width: 767px) 
+        {
+                .row.content {height: auto;} 
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="container">
+        <div class="btn-toolbar justify-content-between">
+            <h2><span class="badge orange-title ml-2 ">Index Detail Modification</span> </h2>
+            <a href="keywordlist.html" class="btn btn-primary float-right mb-2 mt-1">BACK TO KEYWORD LIST</a>
+        </div>
+    </nav>
+
+    <br> <br>
+
+    <div class="container-fluid">
+
+        <div class="container well mb-1">
+        
+                <div class="input-group mb-3" id="div_title">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="inputGroup-sizing-default">Index Title</span>
+                    </div>
+                    <input type="text" class="form-control" value="Criminal Law" aria-describedby="inputGroup-sizing-default">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="button">Save</button>
+                    </div>
+                </div>
+                
+                <ul class="list-group" id="list_tags">
+                    <li class="list-group-item">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-default">01</span>
+                            </div>
+                            <input type="text" class="form-control" value="Keyword_01" aria-describedby="inputGroup-sizing-default">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Save</button>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-default">02</span>
+                            </div>
+                            <input type="text" class="form-control" value="Keyword_02" aria-describedby="inputGroup-sizing-default">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Save</button>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-default">03</span>
+                            </div>
+                            <input type="text" class="form-control" value="Keyword_03" aria-describedby="inputGroup-sizing-default">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Save</button>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-default">04</span>
+                            </div>
+                            <input type="text" class="form-control" value="Keyword_04" aria-describedby="inputGroup-sizing-default">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Save</button>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-default">05</span>
+                            </div>
+                            <input type="text" class="form-control" value="Keyword_05" aria-describedby="inputGroup-sizing-default">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Save</button>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-default">06</span>
+                            </div>
+                            <input type="text" class="form-control" value="Keyword_06" aria-describedby="inputGroup-sizing-default">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Save</button>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+
+
+
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="New Index Title" aria-label="New Index Title" aria-describedby="button-addon2">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-info" type="button" id="button-addon2">Add New Keyword</button>
+                </div>
+            </div>   
+        
+        </div>
+
+    </div>
+
+</body>
+
+</html>

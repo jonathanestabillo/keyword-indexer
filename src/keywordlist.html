@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>KEYWORDS PLANNER - Summary</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/keywordlist.css">
+    <link rel="stylesheet" href="lib/bootstrap.min.css">
+    <script src="crud.js"></script>
+    <script src="./lib/jquery-3.3.1.min.js" onload="window.$ = window.jQuery = module.exports;"></script>
+    <script src="lib/popper.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+    <style>
+        /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+        .row.content 
+        {
+            height: 550px
+        }
+
+        /* Set gray background color and 100% height */
+        .sidenav 
+        {
+            background-color: #f1f1f1;
+            height: 100%;
+        }
+            
+            /* On small screens, set height to 'auto' for the grid */
+        @media screen and (max-width: 767px) 
+        {
+                .row.content {height: auto;} 
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="container">
+        <h2><span class="badge orange-title">KEYWORD LIST</span> </h2>
+    </nav>
+
+    <div class="container-fluid">
+
+        <div class="container well">
+
+                <table class="table table table-striped">
+                    <tbody id="tbl_indexlist">
+                        
+                    </tbody>
+                </table>         
+        </div>
+
+        <div class="container">
+                <a href="addkeyword.html" class="btn btn-primary mt-3 mr-2 float-right">Add New Index</a>
+        </div>
+
+    </div>
+
+    <!-- Include renderer process -->
+    <script type="text/javascript">
+        require('./renderer-process/keywordlist')
+    </script>
+
+</body>
+
+</html>
